@@ -4,7 +4,7 @@ public class Myprop {
 
 	public static void main(String[] args) {
 	System.out.println("haiahia");
-
+	System.out.println("haiahia");
 	}
 
 }
